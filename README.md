@@ -29,8 +29,8 @@ I continuously seek to enhance my expertise by learning **Docker**, refining my 
 My goal for 2025 is to become a **Full Stack Software Engineer**, mastering both frontend and backend development, while improving my DevOps and system design skills.
 
 ## 📫 Connect With Me
-- **GitHub:** [(https://github.com/mohamedkhalaf47)]
-- **LinkedIn:** [(https://www.linkedin.com/in/mohamed-m-khalaf-b4bb59292/))]
+- **GitHub:** https://github.com/mohamedkhalaf47
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-m-khalaf-b4bb59292/
 - **Email:** mohamedmohamedkhalaf47@gmail.com
 
 Feel free to check out my projects and reach out!
