@@ -14,10 +14,10 @@ I continuously seek to enhance my expertise by learning **Docker**, refining my 
 - **DevOps:** Docker (currently learning)
 
 ## 🏆 Experience & Projects
-- 🔹 **Full Stack Task Manager (Next.js, Axios, Mongoose ODM):** Developed a task management system with a **Next.js frontend** and a **MongoDB backend** using **Mongoose ODM**, handling CRUD operations efficiently.
-- 🔹 **Full Stack Doctor Appointment System (MERN Stack):** Built a complete doctor appointment booking system, including **user authentication, appointment scheduling, admin dashboard, and real-time updates**.
-- 🔹 **Back-End Admin Dashboard (Node.js, Express, and Bootstrap):** Designed and implemented a **dashboard for managing data**, following the **MVC architecture**, with an **Express.js backend** and a **Bootstrap-based UI**.
-- 🔹 **Graduation Project - Digital Egypt Pionners Initiative (E-Commerce Website):** Led the development of an **E-Commerce platform**, ensuring a **responsive and user-friendly experience** for customers using **React and Bootstrap**.
+-  **Full Stack Task Manager (Next.js, Axios, Mongoose ODM):** Developed a task management system with a **Next.js frontend** and a **MongoDB backend** using **Mongoose ODM**, handling CRUD operations efficiently.
+-  **Full Stack Doctor Appointment System (MERN Stack):** Built a complete doctor appointment booking system, including **user authentication, appointment scheduling, admin dashboard, and real-time updates**.
+-  **Back-End Admin Dashboard (Node.js, Express, and Bootstrap):** Designed and implemented a **dashboard for managing data**, following the **MVC architecture**, with an **Express.js backend** and a **Bootstrap-based UI**.
+-  **Graduation Project - Digital Egypt Pionners Initiative (E-Commerce Website):** Led the development of an **E-Commerce platform**, ensuring a **responsive and user-friendly experience** for customers using **React and Bootstrap**.
 
 ## 🎓 Certifications & Training
 - 📜 **HP Certificate in Effective Leadership**
