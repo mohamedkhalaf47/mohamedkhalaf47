@@ -18,10 +18,11 @@ I continuously seek to enhance my expertise by learning **Docker**, refining my 
 -  **Graduation Project - Digital Egypt Pionners Initiative (E-Commerce Website):** Led the development of an **E-Commerce platform**, ensuring a **responsive and user-friendly experience** for customers using **React and Bootstrap**.
 
 ## 🎓 Certifications & Training
-- 📜 **HP Certificate in Effective Leadership**
+- 📜 **Digital Egypt Pioneers Initiative - Front-End React**
 - 📜 **HP Certificate in Agile Methodologies**
-- 📜 **Summer Training at ITI (MERN Track)**
+- 📜 **HP Certificate in Effective Leadership**
 - 📜 **Manara Database Course (SQL & NoSQL)**
+- 📜 **Summer Training at ITI (MERN Track)**
 
 ## 🎯 Goals for 2025
 My goal for 2025 is to become a **Full Stack Software Engineer**, mastering both frontend and backend development, while improving my DevOps and system design skills.
