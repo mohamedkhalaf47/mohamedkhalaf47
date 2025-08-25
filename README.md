@@ -29,7 +29,7 @@ My goal for 2025 is to become a **Full Stack Software Engineer**, mastering both
 
 ## 📫 Connect With Me
 - **GitHub:** https://github.com/mohamedkhalaf47
-- **LinkedIn:** [https://www.linkedin.com/in/mohamed-m-khalaf-b4bb59292/](https://www.linkedin.com/in/mohamed-m-khalaf/)
+- **LinkedIn:** https://www.linkedin.com/in/mohamed-m-khalaf/
 - **Email:** mohamedmohamedkhalaf47@gmail.com
 
 Feel free to check out my projects and reach out!
